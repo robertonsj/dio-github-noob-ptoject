@@ -15,9 +15,9 @@ Desafio básico de projeto sobre Git/Hub
 **git add file** : send the file to the staging area.   
 **git reset file** : get back the file to its previous stage.   
 **git commit -m comment** : all the files in staging area will be send to the local repository.  
-**git push repository branch** : run this command will push the current snapshot to the remote repository.   
-**git status** : shows the current stage of the files. 
-**git pull repository branch** : receive locally all the changes made at remote repository.
+**git push repository branch** : run this command will push the current snapshot to the remote repository.     
+**git status** : shows the current stage of the files.   
+**git pull repository branch** : receive locally all the changes made at remote repository.  
 
 ## Markdown basic syntax
 
