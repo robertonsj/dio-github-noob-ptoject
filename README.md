@@ -31,3 +31,7 @@ Desafio básico de projeto sobre Git/Hub
 
 * How to create line breaks    
 ![how to create line breaks!](assets/linebreaks.png)
+
+## JavaScript Basic Concepts
+
+* Executando arquivo .js no bash: node file;  
