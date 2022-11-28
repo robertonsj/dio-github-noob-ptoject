@@ -20,11 +20,12 @@ Desafio básico de projeto sobre Git/Hub
 ## Markdown basic syntax
 
 ### headings
+
 - Heading Best practices  
-![heading best practices 01!](/beginner-project/dio/dio-github-noob-ptoject/assets/heading-best-practice-01.png)  
-![heading best practices 02!](/beginner-project/dio/dio-github-noob-ptoject/assets/heading-best-practice-02.png)
+![heading best practices 01](assets/heading-best-practice-01.png "Space between number and sign")  
+![heading best practices 02](assets/heading-best-practice-02.png "Blank lines before and after a heading")
 
 ### Line Breaks
 
 * How to create line breaks    
-![how to create line breaks!](/beginner-project/dio/dio-github-noob-ptoject/assets/linebreaks.png)
+![how to create line breaks!](assets/linebreaks.png)
