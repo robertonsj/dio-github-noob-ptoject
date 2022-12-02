@@ -5,8 +5,8 @@
  * d) preço > 2x, 10% de juros;
  */
 
-const valorProd = 0 /**quanto custa */
-const formaPgmt = "debito" /**forma de pagamento */
+const valorProd = 10.5 /**quanto custa */
+const formaPgmt = "pix" /**forma de pagamento */
 let valorPagar;
 
 switch(formaPgmt){
@@ -28,5 +28,3 @@ switch(formaPgmt){
 
 }
 console.log(`Total a pagar eh R$${valorPagar.toFixed(2)}`)
-
-}
