@@ -1,5 +1,10 @@
-const {receivesNumber, prints} = require('./funcoes-auxiliares')
+const { prints, gets, recebeLista} = require('./funcoes-auxiliares')
 
-const numbers = [5, 50, 10, 98, 23]
-const major = receivesNumber(numbers)
-prints(`The major number is ${major}`)
+//const major = recebeLista(numbers)
+//prints(`The major number is ${major}`)
+
+const lista02 = [5, 10, 27, 39, 47, 25]
+
+prints(gets())
+prints(recebeLista(lista02))
+
